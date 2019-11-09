@@ -4,4 +4,3 @@ function writeCards(arr, eventName) {
     `Thank you, ${i}, for the wonderful ${eventName} gift!`
   }
 }
-
